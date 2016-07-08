@@ -1,2 +1,37 @@
 ﻿body {
+    background-color:#dddddd;
 }
+
+h1{
+      font-family:Arial, Helvetica, sans-serif;
+      text-align:center;
+      font-size:300%;
+}
+
+h2{
+    font-family: 'Pacifico', cursive;
+    text-align:center;
+    font-style:italic;
+    font-size:300%;
+    margin-top:-10px;
+    margin-bottom:25px;
+}
+
+.row sea{
+    background-image:url(sea-tuscany.jpg);
+     position: relative; 
+   width: 100%;
+}
+
+.col_p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:225%;
+    font-style: italic;
+    position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%;
+   text-align:center;
+}
+    
+   
