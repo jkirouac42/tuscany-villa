@@ -38,7 +38,16 @@ h2{
    text-align:center;
 }
 
-
+.square{
+    float:left;
+    position: relative;
+    width:25%;
+    padding-bottom : 30%; /* = width for a 1:1 aspect ratio */
+    margin:0%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
 
 .img_2-1{
     background-image:url(tuscany-wall-1464570.jpg)
@@ -51,16 +60,7 @@ h2{
 .img_2-3{
     background-image:url(vintage-car.jpg)
 }
-.square{
-    float:left;
-    position: relative;
-    width:21%;
-    padding-bottom : 30%; /* = width for a 1:1 aspect ratio */
-    margin:1.66%;
-    background-position:center center;
-    background-repeat:no-repeat;
-    background-size:cover;
-}
+
 
 
    
