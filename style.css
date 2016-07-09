@@ -31,11 +31,13 @@ h2{
     font-family:Arial, Helvetica, sans-serif;
     font-size:225%;
     font-style: italic;
+    color:#ffffff;
     position: absolute; 
    top: 200px; 
    left: 0; 
    width: 100%;
    text-align:center;
+  
 }
 
 .square{
@@ -49,20 +51,47 @@ h2{
     background-size:cover;
 }
 
+.square_2{ 
+    float:left;
+    position: relative;
+    width:50%;
+    padding-bottom : 30%; /* = width for a 1:1 aspect ratio */
+    margin:0%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+.img_1-1{
+    background-image:url(landscape-of-tuscany.jpg)
+}
+
+.img_1-2{
+    background-image:url(sea-tuscany.jpg)
+}
+
+
 .img_2-1{
     background-image:url(tuscany-wall-1464570.jpg)
 }
 
 .img_2-2{
     background-image:url(tuscan-door-1-1227016.jpg)
+    
 }
 
 .img_2-3{
     background-image:url(vintage-car.jpg)
 }
 
+.img_3-1{
+    background-image:url(hotel-villa-carlotta.jpg)
+}
 
-
+.img_3-2{
+    background-image:url(venice-in-summer-1158283.jpg)
+}
    
 .r2c1{
     font-family:Arial, Helvetica, sans-serif;
@@ -73,9 +102,29 @@ h2{
    left: 0; 
    width: 100%;
    text-align:center;
-} 
-   
-.car{
-    height:auto;
-    max-width:100%;
 }
+
+#p-2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:100%;
+    font-style: italic;
+    position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%;
+   text-align:center;
+}
+
+#h-2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:100%;
+    font-style: italic;
+    position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%;
+   text-align:center;
+}
+
+
+
