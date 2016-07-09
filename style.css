@@ -16,11 +16,13 @@ h2{
     margin-top:-10px;
     margin-bottom:25px;
 }
+ 
 
 .row sea{
     background-image:url(sea-tuscany.jpg);
-     position: relative; 
-   width: 100%;
+    position: relative; 
+    width: 100%;
+    
 }
 
 .col_p{
@@ -34,13 +36,6 @@ h2{
    text-align:center;
 }
    
-.beach{
-    position:absolute;
-    top:50%;
-    transform:translateY(50%);
-}
-
-
 .r2c1{
     font-family:Arial, Helvetica, sans-serif;
     font-size:100%;
@@ -52,3 +47,7 @@ h2{
    text-align:center;
 } 
    
+.car{
+    height:auto;
+    max-width:100%;
+}
