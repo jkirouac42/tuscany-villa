@@ -171,7 +171,7 @@ h2{
 }
 
 footer{
-max-height:75px;
+max-height:100px;
 
 }
 
@@ -186,7 +186,10 @@ max-height:75px;
 }
 
 .feature{
-    font-size:900%;
+    font-size:800%;
     color:#ef970b;
+}
 
+article{
+    background-color:#676262;
 }
