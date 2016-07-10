@@ -171,18 +171,21 @@ background-color:#d31212;
 
 }
 
-#p_f{
-    font-family:Arial, Helvetica, sans-serif;
-    font-size:200%;
+#p_f {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
     font-style: italic;
-    position:relative; 
-   top: 200px; 
-   left: 0; 
-   width: 100%;
-   text-align:center;
-   color:#ffffff;
-   display:inline-block;
-   background-color:#676262;
-    opacity:0.6;
+    position: relative;
+    top: 200px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    display: inline-block;
+    background-color: #676262;
+    opacity: 0.6;
+}
+.feature{
+    font-size:300%;
 
-
+}
