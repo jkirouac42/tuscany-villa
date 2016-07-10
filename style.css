@@ -2,6 +2,10 @@
     background-color:#D2D2D2;
 }
 
+body:hover{
+    background-color:#a7b2fa
+}
+
 h1{
       font-family:Arial, Helvetica, sans-serif;
       text-align:center;
@@ -129,7 +133,7 @@ h2{
    text-align:center;
 }
 
-#h-2{
+.h-2{
     font-family:Arial, Helvetica, sans-serif;
     font-size:175%;
     font-style: italic;
@@ -140,7 +144,7 @@ h2{
    text-align:center;
 }
 
-#p-2{
+.p-2{
     font-family:Arial, Helvetica, sans-serif;
     font-size:175%;
     font-style: italic;
@@ -150,7 +154,8 @@ h2{
    width: 100%;
    text-align:center;
 }
-#p_3{
+
+.p_3{
     font-family:Arial, Helvetica, sans-serif;
     font-size:200%;
     font-style: italic;
@@ -164,10 +169,9 @@ h2{
    background-color:#676262;
     opacity:0.6;
 }
-footer{
-max-height:100px;
-background-color:#E4E4E4;
 
+footer{
+max-height:75px;
 
 }
 
@@ -176,13 +180,13 @@ background-color:#E4E4E4;
     font-size: 200%;
     font-style: italic;
     position: relative;
-    top: 200px;
+    top: 50px;
     left: 0;
-    width: 100%;
-    text-align: center;
-      
+    width: 100%;  
 }
+
 .feature{
-    font-size:300%;
+    font-size:900%;
+    color:#ef970b;
 
 }
