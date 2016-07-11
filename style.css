@@ -1,9 +1,9 @@
-﻿body {
+﻿body{
     background-color:#D2D2D2;
 }
 
-body:hover{
-    background-color:#a7b2fa
+header:hover{
+    background-image:url(chalet-beranger.png)
 }
 
 h1{
@@ -60,6 +60,9 @@ h2{
     background-size:cover;
     height:225px;
 }
+.square:hover{
+    background-image:url(423_edit4.jpg);
+}
 
 .square_2{ 
     float:left;
@@ -83,8 +86,8 @@ h2{
     height:50px;
 }
 
-.img_1-1{
-    background-image:url(landscape-of-tuscany.jpg)
+.img_1-1{    
+    background-image:url(landscape-of-tuscany.jpg)      
 }
 
 .img_1-2{
@@ -186,10 +189,16 @@ max-height:100px;
 }
 
 .feature{
-    font-size:800%;
+    font-size:700%;
     color:#ef970b;
 }
 
-article{
-    background-color:#676262;
+ul:hover{
+    background-color:#9093c8;
+}
+.p_f:hover{
+    background-color:#9093c8;
+}
+.feature:hover{
+    background-image:url(chalet-beranger.png)
 }
